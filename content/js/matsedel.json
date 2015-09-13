@@ -1,0 +1,179 @@
+{
+    "week": [
+        {
+            "WeekNr": 37,
+            "days": [
+                {
+                    "ordinary": "Ostsås med kalkonkött serveras med pasta, knäckebröd, råkost och lättmjölk",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Högsbosoppa med smak av morot serveras med mjukt bröd och pålägg, råkost och lättmjölk",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Kålpudding serveras med sås, kokt potatis och lingonsylt, knäckebröd, råkost och lättmjölk",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Mexikansk köttfärsgryta serveras med kokt ris och nachos, råkost och lättmjölk",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Stekt fiskfilé serveras med kall sås och kokt potatis, knäckebröd, råkost och lättmjölk",
+                    "vegitary": "Dagens vegetariska alternativ"
+                }
+            ]
+        },
+        {
+            "WeekNr": 38,
+            "days": [
+                {
+                    "ordinary": "Fiskgratäng med tärnad lax och Sweet Chili serveras med hemlagat potatismos",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Stekt isterband serveras med dillstuvad potatis",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Kött och grönsakssoppa serveras med bröd, ost och frukt",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Pytt i panna serveras med rödbetor",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Nudelwok med strimlat fläskkött och grönsaker ",
+                    "vegitary": "Dagens vegetariska alternativ"
+                }
+            ]
+        },
+        {
+            "WeekNr": 39,
+            "days": [
+                {
+                    "ordinary": "Pasta Carbonara serveras med Penne Rigate",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Laxpanetter serveras med spenatstuvning och kokt potatis",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Kycklinggryta Cantadou serveras med kokt ris alt bulgur",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Potatis och purjolökssoppa serveras med bröd, ost och frukt",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Lasagne",
+                    "vegitary": "Dagens vegetariska alternativ"
+                }
+            ]
+        },
+        {
+            "WeekNr": 40,
+            "days": [
+                {
+                    "ordinary": "Fiskburgare med bröd serveras med potatismos och dressing",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Kycklinglevergryta serveras med kokt ris",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Pannbiff serveras med lök, sås, kokt potatis, smörgåsgurka och lingonsylt",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Tomat och pastasoppa med basilika serveras med crème fraiche, bröd, ost och frukt",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Skånsk kalops serveras med rödbetor och kokt potatis",
+                    "vegitary": "Dagens vegetariska alternativ"
+                }
+            ]
+        },
+        {
+            "WeekNr": 41,
+            "days": [
+                {
+                    "ordinary": "Falukorv serveras med senapssås, kokt potatis och kokta morötter",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Krämig kycklingsoppa serveras med bröd, ost och frukt",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Chili con Carne serveras med kokt ris",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Stekt strömming alt fiskpanetter serveras med hemlagat potatismos och lingonsylt",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Gratinerad kassler på spenatbädd serveras med kokta potatis och kokta grönsaker",
+                    "vegitary": "Dagens vegetariska alternativ"
+                }
+            ]
+        },
+        {
+            "WeekNr": 42,
+            "days": [
+                {
+                    "ordinary": "Köttfärssås serveras med spagetti",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Köttkorv serveras med hemlagat rotmos, senap",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Blomkålssoppa med rostade kikärter serveras med bröd, ost och frukt",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Cevapcici serveras med pitabröd, sallad, grönsaker, Ajvar Relish och gräddfil",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Mickes fiskgryta serveras med kokt ris alt couscous och aioli",
+                    "vegitary": "Dagens vegetariska alternativ"
+                }
+            ]
+        },
+        {
+            "WeekNr": 43,
+            "days": [
+                {
+                    "ordinary": "Fiskgratäng med tomat och dill serveras med kokt ris",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Kokt höns serveras med currysås, kokt ris och kokta gröna ärter",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Vad huset bjuder",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Spenatsoppa serveras med ägghalva, bröd, ost och frukt",
+                    "vegitary": "Dagens vegetariska alternativ"
+                },
+                {
+                    "ordinary": "Biff á la Lindström serveras med sås och kokt potatis",
+                    "vegitary": "Dagens vegetariska alternativ"
+                }
+            ]
+        }
+    ]
+}
