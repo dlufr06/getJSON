@@ -1,179 +1,628 @@
 {
-    "week": [
-        {
-            "WeekNr": 37,
-            "days": [
-                {
-                    "ordinary": "Ostsås med kalkonkött serveras med pasta, knäckebröd, råkost och lättmjölk",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Högsbosoppa med smak av morot serveras med mjukt bröd och pålägg, råkost och lättmjölk",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Kålpudding serveras med sås, kokt potatis och lingonsylt, knäckebröd, råkost och lättmjölk",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Mexikansk köttfärsgryta serveras med kokt ris och nachos, råkost och lättmjölk",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Stekt fiskfilé serveras med kall sås och kokt potatis, knäckebröd, råkost och lättmjölk",
-                    "vegitary": "Dagens vegetariska alternativ"
-                }
-            ]
-        },
-        {
-            "WeekNr": 38,
-            "days": [
-                {
-                    "ordinary": "Fiskgratäng med tärnad lax och Sweet Chili serveras med hemlagat potatismos",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Stekt isterband serveras med dillstuvad potatis",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Kött och grönsakssoppa serveras med bröd, ost och frukt",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Pytt i panna serveras med rödbetor",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Nudelwok med strimlat fläskkött och grönsaker ",
-                    "vegitary": "Dagens vegetariska alternativ"
-                }
-            ]
-        },
-        {
-            "WeekNr": 39,
-            "days": [
-                {
-                    "ordinary": "Pasta Carbonara serveras med Penne Rigate",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Laxpanetter serveras med spenatstuvning och kokt potatis",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Kycklinggryta Cantadou serveras med kokt ris alt bulgur",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Potatis och purjolökssoppa serveras med bröd, ost och frukt",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Lasagne",
-                    "vegitary": "Dagens vegetariska alternativ"
-                }
-            ]
-        },
-        {
-            "WeekNr": 40,
-            "days": [
-                {
-                    "ordinary": "Fiskburgare med bröd serveras med potatismos och dressing",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Kycklinglevergryta serveras med kokt ris",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Pannbiff serveras med lök, sås, kokt potatis, smörgåsgurka och lingonsylt",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Tomat och pastasoppa med basilika serveras med crème fraiche, bröd, ost och frukt",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Skånsk kalops serveras med rödbetor och kokt potatis",
-                    "vegitary": "Dagens vegetariska alternativ"
-                }
-            ]
-        },
-        {
-            "WeekNr": 41,
-            "days": [
-                {
-                    "ordinary": "Falukorv serveras med senapssås, kokt potatis och kokta morötter",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Krämig kycklingsoppa serveras med bröd, ost och frukt",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Chili con Carne serveras med kokt ris",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Stekt strömming alt fiskpanetter serveras med hemlagat potatismos och lingonsylt",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Gratinerad kassler på spenatbädd serveras med kokta potatis och kokta grönsaker",
-                    "vegitary": "Dagens vegetariska alternativ"
-                }
-            ]
-        },
-        {
-            "WeekNr": 42,
-            "days": [
-                {
-                    "ordinary": "Köttfärssås serveras med spagetti",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Köttkorv serveras med hemlagat rotmos, senap",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Blomkålssoppa med rostade kikärter serveras med bröd, ost och frukt",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Cevapcici serveras med pitabröd, sallad, grönsaker, Ajvar Relish och gräddfil",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Mickes fiskgryta serveras med kokt ris alt couscous och aioli",
-                    "vegitary": "Dagens vegetariska alternativ"
-                }
-            ]
-        },
-        {
-            "WeekNr": 43,
-            "days": [
-                {
-                    "ordinary": "Fiskgratäng med tomat och dill serveras med kokt ris",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Kokt höns serveras med currysås, kokt ris och kokta gröna ärter",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Vad huset bjuder",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Spenatsoppa serveras med ägghalva, bröd, ost och frukt",
-                    "vegitary": "Dagens vegetariska alternativ"
-                },
-                {
-                    "ordinary": "Biff á la Lindström serveras med sås och kokt potatis",
-                    "vegitary": "Dagens vegetariska alternativ"
-                }
-            ]
-        }
-    ]
+	"Weeks": [{
+		"MenuId": "87a0b6bc-cd8d-4d88-b530-995b75c314f2",
+		"MenuName": "Växjö gymnasium",
+		"WeekNumber": 37,
+		"Days": [{
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Fiskburgare serveras med bröd, potatismos och kall remouladsås med extra grillgurka",
+				"MealId": "c063a341-f4b5-4028-bace-2302fecd12bf",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": " Quornburgare serveras med bröd, potatismos och remouladsås med extra grillgurka",
+				"MealId": "7f783295-0e73-49cc-975e-112a3c725eb1",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": " Potatislåda med köttfärs,curry och ost",
+				"MealId": "30b6474f-2bf1-4728-a21a-a001a578bbb6",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Grönsakspytt serveras med morotshommus",
+				"MealId": "60b0ff9d-299d-4b99-8dd9-c1924e574080",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": " Raggmunk serveras med stekt fläsk och lingon",
+				"MealId": "12684dac-b755-428a-9c43-a3f370db892c",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": " Raggmunk serveras med krämig ratatouille med bönor",
+				"MealId": "12684dac-b755-428a-9c43-a3f370db892c",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Barbequegryta serveras med kokt ris/bulgur",
+				"MealId": "44695423-0701-4689-9d6e-1e941eee52ff",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Kebabkryddad gratäng med sojafärs serveras med vitlökssås",
+				"MealId": "2cf97c71-78c3-42db-abe4-f38cbd4d9d0c",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Vad huset bjuder",
+				"MealId": "7742a395-cef8-46d2-af8e-34075566ff14",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Vad huset bjuder",
+				"MealId": "7742a395-cef8-46d2-af8e-34075566ff14",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}]
+	}, {
+		"MenuId": "87a0b6bc-cd8d-4d88-b530-995b75c314f2",
+		"MenuName": "Växjö gymnasium",
+		"WeekNumber": 38,
+		"Days": [{
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Stekt falukorv serveras med potatismos och gurkdressing",
+				"MealId": "fbe783e0-c6c2-42dc-bfa4-3adae170e0b3",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Grönsaksbiff serveras med potatismos och gurkdressing",
+				"MealId": "f31b4440-5565-4d8c-9295-247d1db66036",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": " Fläskköttgryta med rotfrukts och äppelsmak serveras med ris/bulgur",
+				"MealId": "51ec31a7-5777-484c-bf1e-3025615e5995",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": " Quornkalops serveras med ris/bulgur",
+				"MealId": "439aea4c-c14d-464c-8c65-324173bd817c",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Hedvigsoppa serveras med mjukt bröd och pålägg",
+				"MealId": "1c088147-5656-4b8e-8cc7-5ad786fb9754",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Tomatsoppa med pastasnäckor serveras med mjukt bröd och pålägg",
+				"MealId": "ad0e7c70-b31e-46c1-bbf3-c43999c430e3",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Stekt saltmarinerad fisk serveras med kokt potatis och kall limesås",
+				"MealId": "73106367-0a45-46db-8ae5-8c4ada2fcb27",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": " Grönsaksnuggets serveras med kokt potatis och kall limesås",
+				"MealId": "18937db3-1864-4375-a33e-184222c23f82",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": " Köttbullar serveras med klyftpotatis och indisk sås",
+				"MealId": "d1314f8f-70f0-4340-aa2c-e40aaa866345",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Broccolimedaljong serveras med klyftpotatis och äppeltsatsiki",
+				"MealId": "6add14e3-1d36-4828-bdea-1334700f9aee",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}]
+	}, {
+		"MenuId": "87a0b6bc-cd8d-4d88-b530-995b75c314f2",
+		"MenuName": "Växjö gymnasium",
+		"WeekNumber": 39,
+		"Days": [{
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": " Fiskgratäng \"Diablo\" med paprika och tomat serveras med kokt potatis",
+				"MealId": "b22bec47-8fa7-4d92-b9d3-b73896ceffef",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": " Vegetarisk korvfrestelse med potatis",
+				"MealId": "766374e3-4cd4-4869-b827-f4056d86138c",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": " Chicken Nuggets serveras med sötsur sås och couscous",
+				"MealId": "fd1ad630-0e5f-4307-85c5-a51d009cf3db",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Falafel serveras med sötsur sås och couscous",
+				"MealId": "fbcc87b2-478e-4e09-818b-01fef9a1b2b5",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": " Köttfärslasagne serveras med kall morotstsatsiki",
+				"MealId": "8ef8fd63-afe5-4eaa-9445-4e83fd5d9b33",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Quornfärssås serveras med spagetti",
+				"MealId": "e9e1719e-0526-4ad1-ae6a-8a065a346e71",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": " Ungersk gulashgryta serveras med ris/bulgur",
+				"MealId": "481d5f16-6af9-48ef-ab5f-80b54d8c531d",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Spenat och fetaostlasagne serveras med ingefärsyoghurt",
+				"MealId": "3f66d7ae-aeac-45f3-bc2d-6a3c61388ec1",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": " Rotfruktsgratäng serveras med basilikaröra",
+				"MealId": "42c283d2-4429-4a7d-93af-21b708b997fd",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": " Broccolipaj med soltorkade tomater och fetaost serveras med basilikaröra",
+				"MealId": "a9f5f62b-863c-438e-a47b-f1050f5d9986",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}]
+	}, {
+		"MenuId": "87a0b6bc-cd8d-4d88-b530-995b75c314f2",
+		"MenuName": "Växjö gymnasium",
+		"WeekNumber": 40,
+		"Days": [{
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": " Stekt isterband serveras med dillstuvad potatis och rödbetor",
+				"MealId": "a4942722-cfae-4af9-af34-a51a00b22bca",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Vinjekorv serveras med dillstuvad potatis och rödbetor",
+				"MealId": "df1d36de-a7aa-494e-8ed2-7552aa3e2e01",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Hamburgare serveras med bröd, potatismos och dressing",
+				"MealId": "209eb460-00d4-4732-b6af-334808ebe9f9",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Falafelburgare serveras med bröd, potatismos och dressing",
+				"MealId": "49526da6-a107-4e7a-961e-70d50847f267",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "STUDIEDAG",
+				"DayMenuName": "Inga måltider serveras",
+				"MealId": "00000000-0000-0000-0000-000000000000",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "STUDIEDAG",
+				"DayMenuName": "Inga måltider serveras",
+				"MealId": "00000000-0000-0000-0000-000000000000",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Lax och spenatsås serveras med kokt pasta",
+				"MealId": "b6d2df8b-adef-4a5c-ba60-91c7c8ef05aa",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": " Ost och rotfruktssås serveras med kokt pasta",
+				"MealId": "936d7606-a066-4717-9b43-4edefd51f361",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": " Kycklinggryta med soltorkade tomater och purjolök serveras med ris/bulgur",
+				"MealId": "6e236149-41c0-4f8d-8eb8-72b25f0873e1",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": " Currygryta med kikärtor och vitkål serveras med kokt ris/bulgur",
+				"MealId": "55006b21-a128-412f-a5e0-9229856ad016",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}]
+	}, {
+		"MenuId": "87a0b6bc-cd8d-4d88-b530-995b75c314f2",
+		"MenuName": "Växjö gymnasium",
+		"WeekNumber": 41,
+		"Days": [{
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Pannbiff serveras med kokt potatis,gräddsås och lingon",
+				"MealId": "d883a02b-0542-4e1a-b038-4c799b0b4001",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Sojanuggets serveras med kokt potatis och ajvar relishsås",
+				"MealId": "b7516e15-84a9-487f-908f-335395c6fccf",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Tomatsås Pomedor med svarta bönor serveras med fusilli",
+				"MealId": "430f2f7c-c933-4468-a01c-75599454fd71",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Spenat- och fetaostpaj serveras med tsatsiki",
+				"MealId": "36c0ead2-7a1a-4ade-896d-2200ac0bd239",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Stekt strömming/stekt fiskfilè serveras med potatismos och lingon",
+				"MealId": "8a5b1fc0-5c95-4105-91ba-a51c009dd4a3",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Broccolimedaljong serveras med potatismos och kall örtsås",
+				"MealId": "6add14e3-1d36-4828-bdea-1334700f9aee",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Pytt i panna serveras med rödbetor",
+				"MealId": "91124eb0-473d-4397-84b5-a51a00b33f61",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Blomkålsgratäng med ädelost och tapenade",
+				"MealId": "31fe2832-4999-43c5-b4f8-afba034370d4",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}, {
+			"DayMenus": [{
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch",
+				"DayMenuInfo": "",
+				"DayMenuName": "Vad huset bjuder",
+				"MealId": "7742a395-cef8-46d2-af8e-34075566ff14",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}, {
+				"PortionTypeId": "ae4ef6e4-7d6f-4826-bcea-a4b400babbac",
+				"HasExtendedInfo": false,
+				"MealPictureURL": null,
+				"MenuAlternativeName": "Lunch veg",
+				"DayMenuInfo": "",
+				"DayMenuName": "Vad huset bjuder",
+				"MealId": "7742a395-cef8-46d2-af8e-34075566ff14",
+				"ShowDayNutrient": false,
+				"ShowWeekNutrient": false,
+				"ShowIngredients": false
+			}]
+		}]
+	}]
 }
